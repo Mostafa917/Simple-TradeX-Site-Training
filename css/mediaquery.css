@@ -1,0 +1,58 @@
+@media screen and (min-width:100px) and (max-width:992px){
+
+    .dropdown:hover .dropdown-menu{
+        display: block;
+        transition-duration: 0.6s;
+       
+     }
+     .dropdown-menu{
+        
+        display:none;
+     }
+     .offset-reset{
+      margin:0;
+     }
+     .position-custom{
+      position: static;
+     }
+     .position-custom2{
+      position:static;
+     }
+     .nav-pills .nav-link{
+      width: 150px;
+      font-size: 19px;
+     }
+     #pills-profile-tab{
+
+      font-size: 19px;
+      width: 150px;
+      
+
+  }
+  .testimonial .card{
+
+   text-align: center;
+}
+.send-button{
+   text-align: center;
+}
+}
+@media  screen and (min-width:100px) and (max-width:1200px) {
+   .custom-phone-position{
+      display:none;
+        }
+
+   .meet-img-display{
+      display: none;
+
+   }
+}
+@media screen and (min-width:100px) and (max-width:500px) {
+   .up-button{
+      left: 80%;
+   }
+   .site-color-pallete{
+      display: none;
+   }
+   
+}
